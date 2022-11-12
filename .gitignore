@@ -170,3 +170,6 @@ test_outputs/
 lightning_logs/
 # Downloaded datasets
 TCGA-Crck/
+
+# chexlocalize
+cheXlocalize/
